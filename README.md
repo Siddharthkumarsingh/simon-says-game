@@ -3,7 +3,7 @@
 A fun, colorful Simon Says memory game built using HTML, CSS, and JavaScript.  
 Test your memory by repeating the sequence of colors as the levels get harder!
 
-👉 [Play it live on GitHub Pages](https://YOUR_USERNAME.github.io/simon-says-game/)
+👉 [Play it live on GitHub Pages](https://siddharthkumarsingh.github.io/simon-says-game/)
 
 ---
 
